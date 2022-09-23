@@ -29,7 +29,7 @@ const Logo2 = styled.h1`
 
 const LogoComponent = (props) => {
     return (
-      <a href="https://portfolio-guri.vercel.app/">
+      <a href="https://gursimranjit.vercel.app/">
         <Logo color={props.theme}>AS</Logo>
       </a>
     );
