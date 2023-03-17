@@ -81,7 +81,7 @@ const Intro = () => {
                 <Text>
                     <h2>Hi,</h2>
                     <h4>I'm Gursimran.</h4>
-                    <h6>I design and Code simple yet beautiful websites.</h6>
+                    <h6>I am a UI/UX designer who creates visually appealing and intuitive designs to enhance user experiences and achieve business goals.</h6>
                 </Text>
             </SubBox>
             <SubBox>

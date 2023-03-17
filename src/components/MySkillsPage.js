@@ -67,8 +67,8 @@ margin-right: 1rem;
 
 const Description = styled.div`
 color: ${props => props.theme.text};
-font-size: calc(0.6em + 1vw);
-padding: 0.5rem 0;
+font-size: calc(0.4em + 1vw);
+padding: 0.3rem 0;
 
 
 ${Main}:hover &{
@@ -97,23 +97,29 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} />Designer
+    <Design width={40} height={40} />Ui/Ux Designer
 </Title>
+
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple.
-</Description>
-<Description>
-<strong>I like to Design</strong>
 <ul>
+<br></br>
     <li>
-        Web Design
+        Creating designing user interfaces that are visually appealing, intuitive, and easy to use
     </li>
+<br></br>
     <li>
-        Graphic Design
+        Creating wireframes, prototypes, and mockups to communicate design ideas
     </li>
+<br></br>
     <li>
-        Mobile Apps
+
+        Collaborating with developers and other stakeholders to ensure designs are implemented correctly
     </li>
+<br></br>
+    <li>
+        Testing designs with users to gather feedback and make iterative improvements
+    </li>
+<br></br>
 </ul>
 </Description>
 <Description>
@@ -123,13 +129,19 @@ I love to create design which speaks, Keep it clean, minimal and simple.
        Figma
     </li>
     <li>
-       Adobe Suite
+       Adobe Creative Suite
+    </li>
+    <li>
+       Adobe xd
     </li>
     <li>
        Sketch
     </li>
     <li>
-       Illustrator
+       Fluid Ui
+    </li>
+    <li>
+       Illustrator and More...
     </li>
     
 </ul>
@@ -138,22 +150,57 @@ I love to create design which speaks, Keep it clean, minimal and simple.
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Design width={40} height={40} />Front-End Developer
 </Title>
+
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+<ul>
+<br></br>
+    <li>
+        Turning designs into functioning web applications or websites.
+    </li>
+<br></br>
+    <li>
+        Ensuring websites or applications work well on various devices and screen sizes
+    </li>
+<br></br>
+    <li>
+        Communicating effectively and working collaboratively with team members to meet project goals and requirements.
+    </li>
+<br></br>
+    <li>
+        Minimizing page load times and improving user experience.
+    </li>
+<br></br>
+</ul>
 </Description>
 <Description>
 <strong>Skills</strong>
-<p>
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
-</p>
-</Description>
-<Description>
-<strong>Tools</strong>
-<p>
-VScode, Github, Codepen etc.
-</p>
+<ul>
+    <li>
+       HTML5
+    </li>
+    <li>
+       CSS3 & CSS5
+    </li>
+    <li>
+       JavaScript & jQueary
+    </li>
+    
+    <li>
+       React Js
+    </li>
+    <li>
+    GSAP
+    </li>
+    <li>
+    SaSS
+    </li>
+    <li>
+    TAILWIND
+    </li>
+    
+</ul>
 </Description>
 
             </Main>
