@@ -72,11 +72,9 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
-<br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
-<br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+       I am highly skilled and talented designer with a passion for creating visually appealing and user-friendly designs. With expertise in graphic design, UI/UX design, and 3D design, I've a unique set of skills that allow me to bring ideas to life in a way that is both aesthetically pleasing and functional. <br /> <br/>
+       Whether working on a branding project, a website redesign, or a 3D rendering, I approaches each project with a focus on creating designs that are both effective and impactful. I've a keen eye for detail and is constantly striving to stay up-to-date with the latest design trends and technologies. With combination of technical ability and creative vision.
+
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
