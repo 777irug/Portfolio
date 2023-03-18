@@ -3,69 +3,60 @@
 export const Blogs = [
     {
         id:1,
-        name:"Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations",
-        tags:["react","gsap","styled-components"],
-        date:"13 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--sBeV06Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yrzy75q4dzibqz6rf82.png",
-         link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+        name:"THE SALOON",
+        tags:["Adobe XD","Photoshop"],
+        date:"Mar 7, 2023",
+        imgSrc:"https://cdn.dribbble.com/userupload/5172078/file/original-d4852dd4f51845b0aef131f63b14f521.png",
+         link:"https://dribbble.com/shots/20846824-THE-SALOON-Florida"
     },
     {
         id:2,
-        name:"How to create React Hamburger Menu using Styled-Components",
-        tags:["react","styled-components"],
-        date:"5 July, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625479747640%2F7KzwP9nmj.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-         link:"https://codebucks.hashnode.dev/react-hamburger-menu"
+        name:"Guri's Shoes",
+        tags:["Figma","Photoshop"],
+        date:"Mar 10, 2021",
+        imgSrc:"https://cdn.dribbble.com/userupload/5247117/file/original-162b5b5a1e7b8eb92b97925da702e35c.png?compress=1&resize=1200x600",
+         link:"https://dribbble.com/shots/20875608-Guri-s-Shoes"
     },
     {
         id:3,
-        name:"React Loading Screen: Try these 3 cool loading screens for your app",
-        tags:["react","react-lottie","styled-components"],
-        date:"6 July, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625552344293%2Fegwis0UIX.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-         link:"https://codebucks.hashnode.dev/react-loading-screens"
+        name:"Uniswap",
+        tags:["Figma","Photoshop"],
+        date:"Mar 11, 2023",
+        imgSrc:"https://cdn.dribbble.com/userupload/5272501/file/original-df08fa5165c9bc9991419048541d45fa.png?compress=1&resize=1024x757",
+         link:"https://dribbble.com/shots/20884943-Uniswap"
     },
     {
         id:4,
-        name:"How to build a Fabulous Todo App using React, Redux and Framer-Motion",
-        tags:["react","redux","framer-motion"],
-        date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--r5oUDhhT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/036s7j5b73up7455rdth.png",
-         link:"https://dev.to/codebucks/build-redux-react-todo-list-app-with-animations-using-framer-motion-1mp1"
+        name:"GSRM Wallet",
+        tags:["Figma","Photoshop"],
+        date:"Mar 12, 2023",
+        imgSrc:"https://cdn.dribbble.com/userupload/5287270/file/original-7a49100b319ff9edfb546e4693b0217e.png",
+         link:"https://dribbble.com/shots/20890246-GSRM-Wallet"
     },
     {
         id:5,
-        name:"What is Higher Order Component (HOC) in React JS?",
-        tags:["react","reactJS","web-development"],
-        date:"3 Feb, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625295480148%2FlyKj8bpHK.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-         link:"https://codebucks.hashnode.dev/what-is-higher-order-component"
+        name:"SNACKO-The Hungry Hub",
+        tags:["Figma","Photoshop"],
+        date:"Mar 13, 2023",
+        imgSrc:"https://cdn.dribbble.com/userupload/5313211/file/original-b3b6c3e2dfed00cc5312a21a9040595a.png?compress=1&resize=1024x512",
+         link:"https://dribbble.com/shots/20900377-SNACKO-The-Hungry-Hub"
     },
     {
         id:6,
-        name:"How to implement Pagination Component in React from scratch",
-        tags:["react","css"],
-        date:"5 Jan, 2021",
-        imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625240050668%2FGAya9b0XK.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-         link:"https://codebucks.hashnode.dev/pagination-in-react"
+        name:"Adopets",
+        tags:["Figma","Photoshop"],
+        date:"Mar 16, 2023",
+        imgSrc:"https://cdn.dribbble.com/userupload/5403463/file/original-446e7a6ca0d02305a3e81e348b3b5e7c.png?compress=1&resize=1024x709",
+         link:"https://dribbble.com/shots/20935066-Adopets"
 
     },
    
     {
         id:7,
-        name:"What is Redux ? Simply Explained!",
-        tags:["react","redux","javascript"],
-        date:"16 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.png",
-         link:"https://dev.to/codebucks/what-is-redux-simply-explained-2ch7"
-    },
-    {
-        id:8,
-        name:"How to create Sidebar navigation menu in ReactJS with react router and framer-motion",
-        tags:["react","framer-motion","styled-components"],
-        date:"26 May, 2021",
-        imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
-         link:"https://dev.to/codebucks/build-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-for-cool-page-transition-effects-4bc3"
-    },
-  
+        name:"Metro",
+        tags:["Figma","Photoshop"],
+        date:"Mar 16, 2023",
+        imgSrc:"https://cdn.dribbble.com/userupload/5403780/file/original-2323079fb217752a2a3f0bd4eabb477b.png?compress=1&resize=1200x853",
+         link:"https://dribbble.com/shots/20935165-Metro"
+    },  
 ] 
