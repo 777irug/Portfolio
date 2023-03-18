@@ -25,10 +25,10 @@ const float = keyframes`
 `
 const Spaceman = styled.div`
 position: absolute;
-top: 10%;
-right: 5%;
-width: 20vw;
-animation: ${float} 4s ease infinite;
+top: 30%;
+right: 2%;
+width: 32vw;
+animation: ${float} 6s ease infinite;
 img{
     width: 100%;
     height: auto;
