@@ -41,7 +41,7 @@ const SocialIcons = (props) => {
           <NavLink
             style={{ color: "inherit" }}
             target="_blank"
-            to={{ pathname: "#" }}
+            to={{ pathname: "https://www.behance.net/gursimranjit1812" }}
           >
             <Behance
               width={25}
@@ -61,7 +61,7 @@ const SocialIcons = (props) => {
           <NavLink
             style={{ color: "inherit" }}
             target="_blank"
-            to={{ pathname: "https://youtube.com" }}
+            to={{ pathname: "https://dribbble.com/Gursimran18" }}
           >
             <Dribbble
               width={25}
@@ -80,7 +80,7 @@ const SocialIcons = (props) => {
           <NavLink
             style={{ color: "inherit" }}
             target="_blank"
-            to={{ pathname: "#" }}
+            to={{ pathname: "https://www.linkedin.com/in/gursimran-jit-062764215/" }}
           >
             <Linkedin
               width={25}
